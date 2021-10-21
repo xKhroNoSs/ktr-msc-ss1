@@ -6,12 +6,20 @@ from Character import Character
 # PARTIE 1 
 print("Partie 1")
 
-Eloi = Character("Eloi")
-print(Eloi._name)
-print(Eloi.RPGClass)
-print(Eloi._life)
-print(Eloi._agility)
-print(Eloi._strength)
-print(Eloi._wit)
-Eloi.attack("Baton")
+character = Character("Eloi")
+print(character._name)
+print(character.RPGClass)
+print(character._life)
+print(character._agility)
+print(character._strength)
+print(character._wit)
+character.attack("Baton")
 
+# PARTIE 2
+print("Partie 2")
+
+warrior = Warrior("Ryan")
+mage = Mage("Hugo")
+
+warrior.attack("sword")
+mage.attack("wand")
