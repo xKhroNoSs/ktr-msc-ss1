@@ -18,8 +18,25 @@ character.attack("Baton")
 # PARTIE 2
 print("Partie 2")
 
-warrior = Warrior("Ryan")
-mage = Mage("Hugo")
+Ryan = Warrior("Ryan")
+Hugo = Mage("Hugo")
 
-warrior.attack("sword")
-mage.attack("wand")
+Ryan.attack("sword")
+Hugo.attack("wand")
+
+# PARTIE 3
+print("Partie 3")
+
+Henri = Warrior("Henri")
+Dominique = Mage("Dominique")
+
+Henri.moveRight()
+Henri.moveLeft()
+Henri.moveBack()
+Henri.moveForward()
+
+Dominique.moveRight()
+Dominique.moveLeft()
+Dominique.moveBack()
+Dominique.moveForward()
+
