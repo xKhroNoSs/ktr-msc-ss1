@@ -7,5 +7,7 @@ Pour la partie 3, il est spécifié qu'il faut créer une interface. Cependant a
 
 C'est pourquoi je décide de simplement placer mes méthodes dans un fichier `Movable.py` que j'importe ensuite dans `Characters.py`.
 
+## Partie 5
 
+En utilisant Python comme langage de programmation, il est difficile d'empêcher chevauchement d'une méthode. [C'est également contraire à la philosophie de Python](https://stackoverflow.com/a/3948937).
 
