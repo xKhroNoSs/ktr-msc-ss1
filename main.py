@@ -40,3 +40,23 @@ Dominique.moveLeft()
 Dominique.moveBack()
 Dominique.moveForward()
 
+# PARTIE 4
+print("Partie 4")
+Luc = Character("Luc")
+Jean = Warrior("Jean")
+Billy = Mage("Billy")
+
+Luc.moveRight()
+Luc.moveLeft()
+Luc.moveBack()
+Luc.moveForward()
+
+Jean.moveRight()
+Jean.moveLeft()
+Jean.moveBack()
+Jean.moveForward()
+
+Billy.moveRight()
+Billy.moveBack()
+Billy.moveLeft()
+Billy.moveForward()
