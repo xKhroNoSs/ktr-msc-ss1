@@ -1,5 +1,12 @@
 # KTR-MSC-SS1
 
+Exercice pour test d'admission en MSc Pro - Architecte système réseau et sécurité.
+
+ Dans ma formation (Licence Pro Admin Sys/Réseau), je fais beaucoup de scripting, mais assez peu de programmation réelle, et encore moins d'orienté objet.
+
+Je me suis donc replongé dans le Python et j'ai essayé d'apprendre les bases de la POO en une semaine à côté de mes cours pour cet exercice. Je n'ai malheureusement pas eu le temps de terminer la partie 6.
+
+Le fichier `main.py` permet de tester les différentes étapes de l'exercice.
 
 ## Partie 3
 
